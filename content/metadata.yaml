@@ -1,26 +1,23 @@
 ---
-title: "Manuscript Title"
+title: "ESG bibliometrics"
 keywords:
   - markdown
   - publishing
   - manubot
-lang: en-US
+lang: en-UK
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: quinfer
+    name: Barry Quinn
+    initials: BQ
+    orcid: 0000-0002-8637-9060
+    twitter: quinference
+    email: b.quinn@qub.ac.uk
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
+      - Queen's Management School, Belfast
   - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    name: Lisa Sheenan
+    initials: LS
+    orcid: 0000-0001-8756-4631
+    email: b.quinn@qub.ac.uk
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Queen's Management School, Belfast
