@@ -12,7 +12,7 @@
       "Barry Quinn",
       "Lisa Sheenan"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"ESG bibliometrics\" />\n<meta name=\"citation_title\" content=\"ESG bibliometrics\" />\n<meta property=\"og:title\" content=\"ESG bibliometrics\" />\n<meta property=\"twitter:title\" content=\"ESG bibliometrics\" />\n<meta name=\"dc.date\" content=\"2022-03-21\" />\n<meta name=\"citation_publication_date\" content=\"2022-03-21\" />\n<meta name=\"dc.language\" content=\"en-UK\" />\n<meta name=\"citation_language\" content=\"en-UK\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Barry Quinn\" />\n<meta name=\"citation_author_institution\" content=\"Queen&#39;s Management School, Belfast\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8637-9060\" />\n<meta name=\"twitter:creator\" content=\"@quinference\" />\n<meta name=\"citation_author\" content=\"Lisa Sheenan\" />\n<meta name=\"citation_author_institution\" content=\"Queen&#39;s Management School, Belfast\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8756-4631\" />\n<link rel=\"canonical\" href=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta property=\"og:url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://quinfer.github.io/esg-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://quinfer.github.io/esg-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"ESG bibliometrics\" />\n<meta name=\"citation_title\" content=\"ESG bibliometrics\" />\n<meta property=\"og:title\" content=\"ESG bibliometrics\" />\n<meta property=\"twitter:title\" content=\"ESG bibliometrics\" />\n<meta name=\"dc.date\" content=\"2022-03-21\" />\n<meta name=\"citation_publication_date\" content=\"2022-03-21\" />\n<meta name=\"dc.language\" content=\"en-UK\" />\n<meta name=\"citation_language\" content=\"en-UK\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Barry Quinn\" />\n<meta name=\"citation_author_institution\" content=\"Queen&#39;s Management School, Belfast\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-8637-9060\" />\n<meta name=\"twitter:creator\" content=\"@quinference\" />\n<meta name=\"citation_author\" content=\"Lisa Sheenan\" />\n<meta name=\"citation_author_institution\" content=\"Queen&#39;s Management School\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8756-4631\" />\n<link rel=\"canonical\" href=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta property=\"og:url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://quinfer.github.io/esg-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://quinfer.github.io/esg-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://quinfer.github.io/esg-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -46,10 +46,10 @@
         "orcid": "0000-0001-8756-4631",
         "email": "b.quinn@qub.ac.uk",
         "affiliations": [
-          "Queen's Management School, Belfast"
+          "Queen's Management School"
         ],
         "affiliation_numbers": [
-          1
+          2
         ]
       }
     ],
@@ -57,6 +57,10 @@
       {
         "affiliation": "Queen's Management School, Belfast",
         "affiliation_number": 1
+      },
+      {
+        "affiliation": "Queen's Management School",
+        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -64,15 +68,15 @@
       "repo_slug": "quinfer/esg-manuscript",
       "repo_owner": "quinfer",
       "repo_name": "esg-manuscript",
-      "commit": "d1e3689b345039b6e9076555a6f99dd2d4834b0b",
-      "triggering_commit": "d1e3689b345039b6e9076555a6f99dd2d4834b0b",
-      "build_url": "https://github.com/quinfer/esg-manuscript/commit/d1e3689b345039b6e9076555a6f99dd2d4834b0b/checks",
-      "job_url": "https://github.com/quinfer/esg-manuscript/actions/runs/2017161175"
+      "commit": "048553f65be18068bea82404e460a9bb0b2850dd",
+      "triggering_commit": "048553f65be18068bea82404e460a9bb0b2850dd",
+      "build_url": "https://github.com/quinfer/esg-manuscript/commit/048553f65be18068bea82404e460a9bb0b2850dd/checks",
+      "job_url": "https://github.com/quinfer/esg-manuscript/actions/runs/2018625840"
     },
     "html_url": "https://quinfer.github.io/esg-manuscript/",
     "pdf_url": "https://quinfer.github.io/esg-manuscript/manuscript.pdf",
-    "html_url_versioned": "https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/",
-    "pdf_url_versioned": "https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/manuscript.pdf",
+    "html_url_versioned": "https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/",
+    "pdf_url_versioned": "https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/manuscript.pdf",
     "manubot_version": "0.5.2",
     "rootstock_commit": "9a22fab4497f80f501ea361d028f26888ad9d5a0",
     "manuscript_stats": {

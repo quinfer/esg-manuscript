@@ -32,7 +32,7 @@ header-includes: |-
   <meta name="citation_author_orcid" content="0000-0002-8637-9060" />
   <meta name="twitter:creator" content="@quinference" />
   <meta name="citation_author" content="Lisa Sheenan" />
-  <meta name="citation_author_institution" content="Queen&#39;s Management School, Belfast" />
+  <meta name="citation_author_institution" content="Queen&#39;s Management School" />
   <meta name="citation_author_orcid" content="0000-0001-8756-4631" />
   <link rel="canonical" href="https://quinfer.github.io/esg-manuscript/" />
   <meta property="og:url" content="https://quinfer.github.io/esg-manuscript/" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://quinfer.github.io/esg-manuscript/" />
   <meta name="citation_pdf_url" content="https://quinfer.github.io/esg-manuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://quinfer.github.io/esg-manuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/" />
-  <meta name="manubot_html_url_versioned" content="https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/" />
+  <meta name="manubot_html_url_versioned" content="https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://quinfer.github.io/esg-manuscript/v/d1e3689b345039b6e9076555a6f99dd2d4834b0b/))
+([permalink](https://quinfer.github.io/esg-manuscript/v/048553f65be18068bea82404e460a9bb0b2850dd/))
 was automatically generated
-from [quinfer/esg-manuscript@d1e3689](https://github.com/quinfer/esg-manuscript/tree/d1e3689b345039b6e9076555a6f99dd2d4834b0b)
+from [quinfer/esg-manuscript@048553f](https://github.com/quinfer/esg-manuscript/tree/048553f65be18068bea82404e460a9bb0b2850dd)
 on March 21, 2022.
 </em></small>
 
@@ -91,7 +91,7 @@ on March 21, 2022.
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [janeroe](https://github.com/janeroe)<br>
   <small>
-     Queen's Management School, Belfast
+     Queen's Management School
   </small>
 
 
