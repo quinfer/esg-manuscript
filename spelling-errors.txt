@@ -24,7 +24,6 @@ incididunt
 ipsum
 irure
 janeroe
-johndoe
 labore
 laboris
 laborum
@@ -39,9 +38,12 @@ Pandoc’s
 pariatur
 proident
 qui
+quinfer
+quinference
 quis
 reprehenderit
 sed
+Sheenan
 sint
 sunt
 tempor
@@ -49,5 +51,3 @@ ullamco
 velit
 veniam
 voluptate
-XXXX
-XXXXXXXX
