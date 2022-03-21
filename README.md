@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/quinfer/esg-manuscript/tree/gh-pages) branch hosts the contents of this directory at <https://quinfer.github.io/esg-manuscript/>.
-The permalink for this webpage version is <https://quinfer.github.io/esg-manuscript/v/9a22fab4497f80f501ea361d028f26888ad9d5a0/>.
+The permalink for this webpage version is <https://quinfer.github.io/esg-manuscript/v/bfbfe9e279bdb53553cd5e57985c40aca865a339/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://quinfer.github.io/esg-manuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9a22fab4497f80f501ea361d028f26888ad9d5a0`](https://github.com/quinfer/esg-manuscript/commit/9a22fab4497f80f501ea361d028f26888ad9d5a0).
+[`bfbfe9e279bdb53553cd5e57985c40aca865a339`](https://github.com/quinfer/esg-manuscript/commit/bfbfe9e279bdb53553cd5e57985c40aca865a339).
